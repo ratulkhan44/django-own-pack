@@ -1,3 +1,5 @@
-from setuptools import setup
+name=input("Please Enter Your Name")
 
-setup()
+if(name == 'alpha'):
+    from setuptools import setup
+    setup()
