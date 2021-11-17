@@ -1,6 +1,4 @@
 from setuptools import setup
-# name=input("Please Enter Your Name")
-
-# if('alpha' == 'alpha'):
-print("hsgdsg")
-setup()
+if __name__ == "__main__":
+    print("****hellooooooo****")
+    setup()
